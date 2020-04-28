@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+    color: rgba(255, 116, 97, 0.637);
+}
+
+.Personal-Details {
+    padding: 10px;
+    align-self: center;
+}
+
+.Personal-table img {
+    width: 300px;
+    height: 400px;
+}
+
+.BIO {
+    line-height: 1.4em;
+}
+
+.Contact p {
+    line-height: 3px;
+    padding-left: 9px;
+}
+
+.email {
+    padding-top: 10px;
+}
+
+.workexp table body {
+    border: 3px solid chocolate;
+
+}
